@@ -155,3 +155,5 @@ cython_debug/
 *.tif
 *.nd2
 temp_tiles_LargeImage.ome.tif/
+
+.DS_Store
